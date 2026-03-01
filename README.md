@@ -20,4 +20,4 @@ bun run tauri dev
 ```bash
 bun run tauri build
 ```
-Binaries in src-tauri/target/release/bundle/
+binaries in src-tauri/target/release/bundle/
